@@ -1,0 +1,22 @@
+{
+  "loginCreds": {
+    "username": "bob@example.com",
+    "password": "10203040"
+  },
+  "invalidUsername": {
+    "username": "b@example.com",
+    "password": "10203040"
+  },
+  "lockUsername": {
+    "username": "alice@example.com",
+    "password": "10203040"
+  },
+  "blankUsername": {
+    "username": "",
+    "password": ""
+  },
+  "blankPassword": {
+    "username": "bob@example.com",
+    "password": ""
+  }
+}
